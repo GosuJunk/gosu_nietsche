@@ -1,5 +1,6 @@
 # gosu_nietzsche
 Nietzsche, Humain trop humain
+
 L'avenir de la science
 
   La science donne beaucoup de satisfaction à celui qui y consacre son travail et ses recherches, mais elle en donne très peu à celui qui se contente d'en apprendre les résultats.
