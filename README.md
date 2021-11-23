@@ -1,4 +1,4 @@
-# gosu_nietsche
+# gosu_nietzsche
 Some great Nietsche works
 
 
