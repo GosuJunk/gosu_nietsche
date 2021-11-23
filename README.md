@@ -2,7 +2,7 @@
 Some great Nietsche works
 
 
-Nietsche, Humain trop humain
+Nietzsche, Humain trop humain
 
 L'avenir de la science
 
