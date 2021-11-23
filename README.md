@@ -1,40 +1,36 @@
 # gosu_nietzsche
-Some great Nietsche works
-
-
 Nietzsche, Humain trop humain
-
 L'avenir de la science
 
-La science donne beaucoup de satisfaction a celui qui y consacre son travail et ses recherches, mais elle en donne tres peu a celui qui se contente d'en apprendre les resultats.
+  La science donne beaucoup de satisfaction à celui qui y consacre son travail et ses recherches, mais elle en donne très peu à celui qui se contente d'en apprendre les résultats.
 
+  Mais comme toutes les vérités ne peuvent que devenir peu à peu banales et communes, même ce peu de satisfaction finit par disparaître.
 
-Mais comme toutes les verites ne peuvent que devenir peu a peu banales et communes, meme ce peu de satisfaction finit par disparaitre.
+  C'est ainsi que nous avons depuis longtemps cessé de trouver le moindre plaisir à apprendre la table de multiplication, qui est pourtant si admirable.
 
-C'est ainsi que nous avons depuis longtemps cesse de trouver le moindre plaisir a apprendre la table de multiplication, qui est pourtant si admirable.
+  [[... explication sur l'effort théorique considérable de la découverte de l'addition, de la multiplication comme abstraction des objets eux mêmes. Cet effort n'a laissé aucune trace dans la façon dont nous apprenons les tables de multiplication ...]]
 
-[[... explication sur l'effort theorique de la decouverte de l'addition, multiplication comme abstraction des objets eux memes. 
-Cet effort n'a laisse aucune trace dans la facon dont nous apprenons les tables de multiplication ...]]
+  Si la science donne de moins en moins de plaisir par elle même, et en ôte toujours davantage en jetant la suspicion sur la métaphysique, la religion et l'art - qui eux consolent - voila appauvrie cette source de plaisir de toute la plus grande a laquelle les Hommes doivent a peu près toute leur humanité.
 
-Si la science donne de moins en moins de plaisir par elle meme, et en ote toujours davantage en jetant la suspicion sur la metaphysique, la religion et l'art - qui eux consolent - voila appauvrie cette source de plaisir de toute la plus grande a laquelle les Hommes doivent a peu pres toute leur humanite.
+  Aussi, une civilisation supérieure devra-t-elle donner un double cerveau a l'Homme, quelque chose comme deux compartiments cérébraux, l'un pour être sensible a la science, l'autre pour être sensible a ce qui n'est pas la science.
 
-Aussi, une civilisation superieure devra-t-elle donner un double cerveau a l'Homme, quelque chose comme deux compartiments cerebraux, l'un pour etre sensible a la science, l'autre pour etre sensible a ce qui n'est pas la science. 
+  Ces deux compartiments devront être juxtaposes, sans empiètement, séparables, étanches. C'est là ce qu'exige la santé.
 
-Ces deux compartiments devront etre juxtaposes, sans empietemenent, separables, etanches. C'est la ce qu'exige la sante.
+  La source d'énergie se trouvera dans la premiere sphère, dans la seconde se trouvera le régulateur de cette énergie.
 
-La source d'energie se trouvera dans la premiere sphere, dans la seconde se trouvera le regulateur de cette energie.
+  Car il faut chauffer, se chauffer aux illusions, aux idées bornées, aux passions, et se servir de la science clairvoyante pour prévenir les suites malignes et dangereuses d'une chauffe trop poussée.
 
-Car il faut chauffer, se chauffer aux illusions, aux idees bornees, aux passions, et se servir de la science clairvoyante pour prevenir les suites malignes et dangereuses d'une chauffe trop poussee.
+[[==IMPORTANTE CONCLUSION==]]
 
-== IMPORTANT ==
-Si l'on ne satisfait pas a cette condition de civilisation superieure, on peut predire a coup sur le cours que va prendre l'evolution humaine.
+  Si l'on ne satisfait pas a cette condition de civilisation supérieure, on peut prédire a coup sur le cours que va prendre l'evolution humaine.
 
-Le gout de vrai va disparaitre au fur et a mesure qu'il garantira moins de plaisir.
+  Le ‘gout du vrai’ va disparaître au fur et a mesure qu'il garantira moins de plaisir.
 
-L'illusion, l'erreur, la chimere vont reconquerir pas a pas - parce qu'il s'y attache du plaisir - le terrain qu'elles tenaient autrefois.
+  L'illusion, l'erreur, la chimère vont reconquérir pas a pas - parce qu'il s'y attache du plaisir - le terrain qu'elles tenaient autrefois.
 
-La ruine des sciences, la rechute dans la barbarie en seront la consequence immediate.
+  La ruine des sciences, la rechute dans la barbarie en seront la conséquence immédiate.
 
-L'humanite devra se remettre a tisser sa toile apres l'avoir, telle Penelope defaite pendant la nuit.
+  L'humanité devra se remettre a tisser sa toile après l'avoir, telle Pénélope, défaite pendant la nuit.
 
-Mais, qui nous garantit qu'elle en retrouvera toujours la force ?
+  Mais, qui nous garantit qu'elle en retrouvera toujours la force ?
+
