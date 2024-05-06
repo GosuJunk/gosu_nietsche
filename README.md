@@ -15,7 +15,7 @@ L'avenir de la science
 
   Aussi, une civilisation supérieure devra-t-elle donner un double cerveau a l'Homme, quelque chose comme deux compartiments cérébraux, l'un pour être sensible a la science, l'autre pour être sensible a ce qui n'est pas la science.
 
-  Ces deux compartiments devront être juxtaposes, sans empiètement, séparables, étanches. C'est là ce qu'exige la santé.
+  Ces deux compartiments devront être juxtaposés, sans empiètement, séparables, étanches. C'est là ce qu'exige la santé.
 
   La source d'énergie se trouvera dans la premiere sphère, dans la seconde se trouvera le régulateur de cette énergie.
 
