@@ -1,7 +1,7 @@
-# gosu_nietzsche
-Nietzsche, Humain trop humain
+# gosu_nietzsche #
+## Nietzsche, Humain trop humain ##
 
-L'avenir de la science
+### L'avenir de la science ###
 
   La science donne beaucoup de satisfaction à celui qui y consacre son travail et ses recherches, mais elle en donne très peu à celui qui se contente d'en apprendre les résultats.
 
@@ -21,7 +21,7 @@ L'avenir de la science
 
   Car il faut chauffer, se chauffer aux illusions, aux idées bornées, aux passions, et se servir de la science clairvoyante pour prévenir les suites malignes et dangereuses d'une chauffe trop poussée.
 
-[[==IMPORTANTE CONCLUSION==]]
+### [[==IMPORTANTE CONCLUSION==]] ###
 
   Si l'on ne satisfait pas a cette condition de civilisation supérieure, on peut prédire a coup sûr le cours que va prendre l'évolution humaine.
 
