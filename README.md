@@ -11,9 +11,9 @@ L'avenir de la science
 
   [[... explication sur l'effort théorique considérable de la découverte de l'addition, de la multiplication comme abstraction des objets eux mêmes. Cet effort n'a laissé aucune trace dans la façon dont nous apprenons les tables de multiplication ...]]
 
-  Si la science donne de moins en moins de plaisir par elle même, et en ôte toujours davantage en jetant la suspicion sur la métaphysique, la religion et l'art - qui eux consolent - voila appauvrie cette source de plaisir de toute la plus grande a laquelle les Hommes doivent a peu près toute leur humanité.
+  Si la science donne de moins en moins de plaisir par elle même, et en ôte toujours davantage en jetant la suspicion sur la métaphysique, la religion et l'art - qui eux consolent - voilà appauvrie cette source de plaisir de toute la plus grande à laquelle les Hommes doivent à peu près toute leur humanité.
 
-  Aussi, une civilisation supérieure devra-t-elle donner un double cerveau a l'Homme, quelque chose comme deux compartiments cérébraux, l'un pour être sensible a la science, l'autre pour être sensible a ce qui n'est pas la science.
+  Aussi, une civilisation supérieure devra-t-elle donner un double cerveau a l'Homme, quelque chose comme deux compartiments cérébraux, l'un pour être sensible à la science, l'autre pour être sensible à ce qui n'est pas la science.
 
   Ces deux compartiments devront être juxtaposés, sans empiètement, séparables, étanches. C'est là ce qu'exige la santé.
 
@@ -23,9 +23,9 @@ L'avenir de la science
 
 [[==IMPORTANTE CONCLUSION==]]
 
-  Si l'on ne satisfait pas a cette condition de civilisation supérieure, on peut prédire a coup sur le cours que va prendre l'evolution humaine.
+  Si l'on ne satisfait pas a cette condition de civilisation supérieure, on peut prédire a coup sûr le cours que va prendre l'évolution humaine.
 
-  Le ‘gout du vrai’ va disparaître au fur et a mesure qu'il garantira moins de plaisir.
+  Le ‘goût du vrai’ va disparaître au fur et a mesure qu'il garantira moins de plaisir.
 
   L'illusion, l'erreur, la chimère vont reconquérir pas a pas - parce qu'il s'y attache du plaisir - le terrain qu'elles tenaient autrefois.
 
@@ -34,4 +34,3 @@ L'avenir de la science
   L'humanité devra se remettre a tisser sa toile après l'avoir, telle Pénélope, défaite pendant la nuit.
 
   Mais, qui nous garantit qu'elle en retrouvera toujours la force ?
-
